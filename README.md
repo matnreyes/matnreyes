@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @matnreyes
-  - Software engineering mariachi
 - 🌱 I’m currently learning End-to-End testing using Cypress
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
   - [LinkedIn](https://www.linkedin.com/in/matnreyes/)
 
