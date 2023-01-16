@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning End-to-End testing using Cypress
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-  - [LinkedIn](linkedin.com/matnreyes)
+  - [LinkedIn]((https://www.linkedin.com/in/matnreyes/)
 
 <!---
 matnreyes/matnreyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
