@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning End-to-End testing using Cypress
 - 📫 How to reach me 
   - [LinkedIn](https://www.linkedin.com/in/matnreyes/)
+  - [Email](matias.reyes@outlook.com)
 
 <!---
 matnreyes/matnreyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
