@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matnreyes
 - 🎹 I use skills learned as a musician to find creative solutions to real world problems
-- 🌱 Currently learning state management with Redux
+- 🌱 Currently learning TypeScript and how to refactor my code to TS
 - 🔥 I'm passionate about contributing towards social equity through the spread of knowledge
 - 🤝 Open to volunteering opportunities and open-source contributions 
 - 📫 How to reach me:
