@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matnreyes
 - 🎹 I use skills learned as a musician to find creative solutions to real world problems
-- 🌱 Currently learning TypeScript and how to refactor my code to TS
+- 🌱 Currently learning React Native
 - 🔥 I'm passionate about contributing towards social equity through the spread of knowledge
 - 🤝 Open to volunteering opportunities and open-source contributions 
 - 📫 How to reach me:
